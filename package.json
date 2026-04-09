@@ -1,0 +1,14 @@
+{
+  "name": "pricing-service",
+  "version": "1.0.0",
+  "description": "pricing service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suprasanna",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
